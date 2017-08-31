@@ -1,7 +1,8 @@
 # Header
 
-menu:
-  主页: /
+#menu:
+#  主页: /
+#  博客: /blog/
 
 # SubNav
 subnav:
@@ -63,7 +64,7 @@ top: true
 
 # Miscellaneous
 baidu_analytics: ''
-google_analytics: ''
+google_analytics: 'UA-70952321-1'
 favicon: /favicon.png
 
 #你的头像url
